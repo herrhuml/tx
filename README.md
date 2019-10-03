@@ -1,1 +1,1 @@
-# TransportX logs for lazy faks
+# TransportX logs made easy
