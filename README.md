@@ -21,4 +21,4 @@ A small app to make the process of making logs easier.
 
 
 <!-- Markdown link & img dfn's -->
-[download]: https://github.com/herrhuml/tx/releases/latest
+[download]: https://github.com/herrhuml/txlogger/releases/latest
