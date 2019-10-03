@@ -5,7 +5,8 @@ small app to make your life easier.
 
 ## Installation
 
-```download
+```
+download
 extract
 run
 ```
