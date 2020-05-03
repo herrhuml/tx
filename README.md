@@ -14,10 +14,10 @@ A small app to make the process of making logs easier.
 
 ## Usage
 
-1. select the correct department and enter the id
-2. press the 'Get Order Info' button
+1. enter the IDs
+2. press the 'Get Info' button
 3. edit anything you need
-4. press The button and you'll get the log
+4. press the 'Create Log' button and you'll get the log
 
 
 <!-- Markdown link & img dfn's -->
